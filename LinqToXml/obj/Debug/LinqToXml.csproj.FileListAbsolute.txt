@@ -1,0 +1,6 @@
+C:\Users\Yauheni_Lazakovich\Documents\GitHub\LinqToXml\LinqToXml\bin\Debug\LinqToXml.dll
+C:\Users\Yauheni_Lazakovich\Documents\GitHub\LinqToXml\LinqToXml\bin\Debug\LinqToXml.pdb
+C:\Users\Yauheni_Lazakovich\Documents\GitHub\LinqToXml\LinqToXml\obj\Debug\LinqToXml.csprojAssemblyReference.cache
+C:\Users\Yauheni_Lazakovich\Documents\GitHub\LinqToXml\LinqToXml\obj\Debug\LinqToXml.csproj.CoreCompileInputs.cache
+C:\Users\Yauheni_Lazakovich\Documents\GitHub\LinqToXml\LinqToXml\obj\Debug\LinqToXml.dll
+C:\Users\Yauheni_Lazakovich\Documents\GitHub\LinqToXml\LinqToXml\obj\Debug\LinqToXml.pdb

@@ -1,0 +1,12 @@
+C:\Users\Yauheni_Lazakovich\Documents\GitHub\LinqToXml\LinqToXml.Test\bin\Debug\LinqToXml.Test.dll
+C:\Users\Yauheni_Lazakovich\Documents\GitHub\LinqToXml\LinqToXml.Test\bin\Debug\LinqToXml.Test.pdb
+C:\Users\Yauheni_Lazakovich\Documents\GitHub\LinqToXml\LinqToXml.Test\bin\Debug\LinqToXml.dll
+C:\Users\Yauheni_Lazakovich\Documents\GitHub\LinqToXml\LinqToXml.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Yauheni_Lazakovich\Documents\GitHub\LinqToXml\LinqToXml.Test\bin\Debug\LinqToXml.pdb
+C:\Users\Yauheni_Lazakovich\Documents\GitHub\LinqToXml\LinqToXml.Test\obj\Debug\LinqToXml.Test.csprojAssemblyReference.cache
+C:\Users\Yauheni_Lazakovich\Documents\GitHub\LinqToXml\LinqToXml.Test\obj\Debug\LinqToXml.Test.LinqToXmlResources.resources
+C:\Users\Yauheni_Lazakovich\Documents\GitHub\LinqToXml\LinqToXml.Test\obj\Debug\LinqToXml.Test.csproj.GenerateResource.cache
+C:\Users\Yauheni_Lazakovich\Documents\GitHub\LinqToXml\LinqToXml.Test\obj\Debug\LinqToXml.Test.csproj.CoreCompileInputs.cache
+C:\Users\Yauheni_Lazakovich\Documents\GitHub\LinqToXml\LinqToXml.Test\obj\Debug\LinqToXml.Test.csproj.CopyComplete
+C:\Users\Yauheni_Lazakovich\Documents\GitHub\LinqToXml\LinqToXml.Test\obj\Debug\LinqToXml.Test.dll
+C:\Users\Yauheni_Lazakovich\Documents\GitHub\LinqToXml\LinqToXml.Test\obj\Debug\LinqToXml.Test.pdb
